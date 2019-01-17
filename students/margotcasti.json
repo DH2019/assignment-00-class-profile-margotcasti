@@ -1,4 +1,4 @@
-"firstName": "Margot",
+{"firstName": "Margot",
   "lastName": "Castiglioni",
   "nickName": "",
   "privateName": false,
@@ -8,6 +8,6 @@
   "privateEmail": false,
   "github": "margotcasti",
   "privateGithub": false,
-  "superpower" : ""late night cramming", can watch a lot of movies, not really good with finishing sentences",
+  "superpower" : "late night cramming, can watch a lot of movies, anxiety",
   "academicinterests": "Latin American History, Simmel, philosophy of aesthetics and film, and primary sources"
 }
