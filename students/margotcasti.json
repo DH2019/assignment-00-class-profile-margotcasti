@@ -1,9 +1,9 @@
-{"firstName": "Margot",
+{ "firstName": "Margot",
   "lastName": "Castiglioni",
   "nickName": "",
   "privateName": false,
-  "picture": "images/margotcasti.jpg"
-  "privatePicture": false,
+  "picture": "images/margotcasti.jpg",
+  "privatePicture" : false,
   "email": "margot.castiglionifrenay@mail.utoronto.ca",
   "privateEmail": false,
   "github": "margotcasti",
