@@ -1,0 +1,13 @@
+{ "firstName": "Margot",
+  "lastName": "Castiglioni",
+  "nickName": "",
+  "privateName": false,
+  "picture": "images/margotcasti.jpg",
+  "privatePicture" : false,
+  "email": "margot.castiglionifrenay@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "margotcasti",
+  "privateGithub": false,
+  "superpower" : "late night cramming, can watch a lot of movies, anxiety",
+  "academicinterests": "Latin American History, Simmel, philosophy of aesthetics and film, and primary sources"
+}
